@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Clock
-Exec=python3 tkinterapp.py
+Exec=python3 main.py
 Comment=A simple clock for Raspberry Pi
 Terminal=false
 Icon=gnome-panel-launcher
